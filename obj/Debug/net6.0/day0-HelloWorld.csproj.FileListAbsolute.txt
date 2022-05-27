@@ -1,0 +1,15 @@
+C:\Users\birka\Desktop\patikaC#\day0-HelloWorld\bin\Debug\net6.0\day0-HelloWorld.exe
+C:\Users\birka\Desktop\patikaC#\day0-HelloWorld\bin\Debug\net6.0\day0-HelloWorld.deps.json
+C:\Users\birka\Desktop\patikaC#\day0-HelloWorld\bin\Debug\net6.0\day0-HelloWorld.runtimeconfig.json
+C:\Users\birka\Desktop\patikaC#\day0-HelloWorld\bin\Debug\net6.0\day0-HelloWorld.dll
+C:\Users\birka\Desktop\patikaC#\day0-HelloWorld\bin\Debug\net6.0\day0-HelloWorld.pdb
+C:\Users\birka\Desktop\patikaC#\day0-HelloWorld\obj\Debug\net6.0\day0-HelloWorld.csproj.AssemblyReference.cache
+C:\Users\birka\Desktop\patikaC#\day0-HelloWorld\obj\Debug\net6.0\day0-HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\birka\Desktop\patikaC#\day0-HelloWorld\obj\Debug\net6.0\day0-HelloWorld.AssemblyInfoInputs.cache
+C:\Users\birka\Desktop\patikaC#\day0-HelloWorld\obj\Debug\net6.0\day0-HelloWorld.AssemblyInfo.cs
+C:\Users\birka\Desktop\patikaC#\day0-HelloWorld\obj\Debug\net6.0\day0-HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\birka\Desktop\patikaC#\day0-HelloWorld\obj\Debug\net6.0\day0-HelloWorld.dll
+C:\Users\birka\Desktop\patikaC#\day0-HelloWorld\obj\Debug\net6.0\refint\day0-HelloWorld.dll
+C:\Users\birka\Desktop\patikaC#\day0-HelloWorld\obj\Debug\net6.0\day0-HelloWorld.pdb
+C:\Users\birka\Desktop\patikaC#\day0-HelloWorld\obj\Debug\net6.0\day0-HelloWorld.genruntimeconfig.cache
+C:\Users\birka\Desktop\patikaC#\day0-HelloWorld\obj\Debug\net6.0\ref\day0-HelloWorld.dll
